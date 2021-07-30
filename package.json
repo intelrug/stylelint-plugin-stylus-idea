@@ -1,0 +1,12 @@
+{
+  "name": "@intelrug/stylelint-plugin-stylus-idea",
+  "version": "0.1.0",
+  "bin": {
+    "stylelint-idea": "bin/stylelint-idea.js",
+    "stylelint": "bin/stylelint-idea.js"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-plugin-stylus": "^0.11.0"
+  }
+}
